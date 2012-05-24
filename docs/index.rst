@@ -41,6 +41,9 @@ Using this method is:
    think I'm about to solve this problem (using `supervisord
    <http://supervisord.org/>`_) but I'm still experimenting
 
+**This doc is in the process of a rewriting, everything after this might
+be a bit outdated (but still works)**
+
 Your own irc server ?
 ---------------------
 
