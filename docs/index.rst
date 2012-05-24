@@ -6,9 +6,6 @@
 Welcome to UnGarage's documentation!
 ====================================
 
-.. toctree::
-   :maxdepth: 2
-
 This is a guide on how I'm managing the irc bot UnGarage for `la Quadrature du
 Net <https://laquadrature.net>`_ (and many others that I've deployed
 afterwards). My constrain are the modular, changing and original requests of a
@@ -44,24 +41,11 @@ Using this method is:
 **This doc is in the process of a rewriting, everything after this might
 be a bit outdated (but still works)**
 
-Your own irc server ?
----------------------
+.. toctree::
+   :maxdepth: 2
 
-Since all the interactions will be made on irc via a bot, you may
-want to setup your own irc server. This is **optional**. But, their
-isn't any access control management in my scripts, so could be a
-good thing to do.
+   ngircd.rst
 
-To setup your own irc server, I recommend you
-`ngIRCd <http://ngircd.barton.de/index.php.en>`_. It is very easy
-to setup (only one config file to edit and you're done) and really
-stable. Thus, it is pkged in debian.
-
-For debian(-based):
-
-::
-
-    apt-get install ngircd
 
 ii
 --
