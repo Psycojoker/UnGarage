@@ -38,8 +38,16 @@ Using this method is:
    think I'm about to solve this problem (using `supervisord
    <http://supervisord.org/>`_) but I'm still experimenting
 
+Contribute
+==========
+
+You can find the source of this documentation `here (github) <https://github.com/Psycojoker/UnGarage>`_, just send a pull request or open bugs there.
+
 **This doc is in the process of a rewriting, everything after this might
 be a bit outdated (but still works)**
+
+Documentation
+=============
 
 .. toctree::
    :maxdepth: 2
