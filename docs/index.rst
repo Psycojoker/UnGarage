@@ -38,6 +38,11 @@ Using this method is:
    think I'm about to solve this problem (using `supervisord
    <http://supervisord.org/>`_) but I'm still experimenting
 
+-  **can also help to solve other problem than building an irc** (this is
+   basically a rediscovery of the Unix way of doing things to handle stream of
+   textual datas) and is also possible for xmpp by replace ii with `jj
+   <https://github.com/Petteri/>`_
+
 Contribute
 ==========
 
